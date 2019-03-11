@@ -1,6 +1,0 @@
-
-def EJ(eps):
-    return eps*(1.0545e-34)**2 / (9.11e-31 * L**2)
-
-def EeV(eps):
-    return eps*(1.0545e-34)**2 /  (1.6e-19 * 9.11e-31 * L**2)
